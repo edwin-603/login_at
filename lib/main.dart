@@ -19,8 +19,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      //home: AnimatedLoginScreen(),
-      home: AadhaarScanDetailsPage(),
+      home: AnimatedLoginScreen(),
+      //home: AadhaarScanDetailsPage(),
     );
   }
 }
